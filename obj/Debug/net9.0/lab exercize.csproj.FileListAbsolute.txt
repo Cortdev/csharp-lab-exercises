@@ -1,0 +1,28 @@
+c:\Users\corte\lab exercize\bin\Debug\net9.0\lab exercize.exe
+c:\Users\corte\lab exercize\bin\Debug\net9.0\lab exercize.dll
+C:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.AssemblyInfoInputs.cache
+C:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.AssemblyInfo.cs
+C:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.csproj.CoreCompileInputs.cache
+C:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.dll
+C:\Users\corte\lab exercize\obj\Debug\net9.0\refint\lab exercize.dll
+C:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.pdb
+c:\Users\corte\lab exercize\bin\Debug\net9.0\lab exercize.deps.json
+c:\Users\corte\lab exercize\bin\Debug\net9.0\lab exercize.runtimeconfig.json
+c:\Users\corte\lab exercize\bin\Debug\net9.0\lab exercize.pdb
+c:\Users\corte\lab exercize\obj\Debug\net9.0\lab exercize.genruntimeconfig.cache
+c:\Users\corte\lab exercize\obj\Debug\net9.0\ref\lab exercize.dll
+C:\Users\corte\labExercise\bin\Debug\net9.0\lab exercize.exe
+C:\Users\corte\labExercise\bin\Debug\net9.0\lab exercize.deps.json
+C:\Users\corte\labExercise\bin\Debug\net9.0\lab exercize.runtimeconfig.json
+C:\Users\corte\labExercise\bin\Debug\net9.0\lab exercize.dll
+C:\Users\corte\labExercise\bin\Debug\net9.0\lab exercize.pdb
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.AssemblyInfoInputs.cache
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.AssemblyInfo.cs
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.csproj.CoreCompileInputs.cache
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.dll
+C:\Users\corte\labExercise\obj\Debug\net9.0\refint\lab exercize.dll
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.pdb
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.genruntimeconfig.cache
+C:\Users\corte\labExercise\obj\Debug\net9.0\ref\lab exercize.dll
