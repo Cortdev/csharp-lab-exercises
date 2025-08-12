@@ -6,7 +6,11 @@ namespace Test17
     {
         static void Main(string[] args)
         {
-                console.print("hello word")
+            Console.Write("hello this is Test1 file");
+            Console.Write("hello this is Test1 file");
+            Console.Write("hello this is Test1 file");
+            Console.Write("hello this is Test1 file");
+
         }
     }
 }
