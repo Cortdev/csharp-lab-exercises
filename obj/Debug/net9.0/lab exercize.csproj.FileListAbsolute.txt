@@ -26,3 +26,4 @@ C:\Users\corte\labExercise\obj\Debug\net9.0\refint\lab exercize.dll
 C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.pdb
 C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.genruntimeconfig.cache
 C:\Users\corte\labExercise\obj\Debug\net9.0\ref\lab exercize.dll
+C:\Users\corte\labExercise\obj\Debug\net9.0\lab exercize.sourcelink.json
